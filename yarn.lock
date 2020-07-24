@@ -996,22 +996,6 @@
   dependencies:
     "@types/hammerjs" "^2.0.36"
 
-"@expo/configure-splash-screen@0.1.11":
-  version "0.1.11"
-  resolved "https://registry.yarnpkg.com/@expo/configure-splash-screen/-/configure-splash-screen-0.1.11.tgz#635a3f55134eecbc665ddd352057cdfb8dd4c539"
-  integrity sha512-KMLBnPB5olwPe8bqDaarH2tRoja95oSVquicZg0g9K7V0fo7YysNTfaYdbqPtGr1CIHkGH8UMBngA0HaquTn/Q==
-  dependencies:
-    "@react-native-community/cli-platform-android" "4.7.0"
-    "@react-native-community/cli-platform-ios" "4.7.0"
-    color-string "^1.5.3"
-    commander "^5.1.0"
-    core-js "^3.6.5"
-    deep-equal "^2.0.3"
-    fs-extra "^9.0.0"
-    pngjs "^5.0.0"
-    xcode "^3.0.0"
-    xml-js "^1.6.11"
-
 "@expo/configure-splash-screen@~0.1.0":
   version "0.1.12"
   resolved "https://registry.yarnpkg.com/@expo/configure-splash-screen/-/configure-splash-screen-0.1.12.tgz#8d8889fc98e87cececdb48af45bc8d6447ce699d"
@@ -3088,13 +3072,6 @@ expo-splash-screen@^0.3.1:
   integrity sha512-j87n6utSq8irvx9dA3YvFwHsqT9c/Cc/QnmpZHB0g3mPh3QBWReKgR3x41tHnkLMKHAi9Au9D4k/o615kUNeDg==
   dependencies:
     "@expo/configure-splash-screen" "~0.1.0"
-
-expo-splash-screen@~0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/expo-splash-screen/-/expo-splash-screen-0.4.0.tgz#b751f11bf702a38b4ead4b4bedd4f82e24a35d70"
-  integrity sha512-6We+pL/uj3pYSxhrqcbvbxsWis5CN85uOHEbxbiE4fSKqaA+laIXq++EIjvWtB7dKxXYTH7nYYYWIOf9jwV8Rg==
-  dependencies:
-    "@expo/configure-splash-screen" "0.1.11"
 
 expo-sqlite@~8.2.1:
   version "8.2.1"
